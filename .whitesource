@@ -1,6 +1,8 @@
 {
+
   "settingsInheritedFrom": "ioana-nicolae/whitesource-config@main",
   "scanSettings": {
-"configMode": "LOCAL" }
+    "configMode": "LOCAL" }
+
 }
 
